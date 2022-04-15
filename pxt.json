@@ -9,7 +9,8 @@
     },
     "files": [
         "README.md",
-        "custom.ts"
+        "custom.ts",
+        "_locales/fr/README.md"
     ],
     "testFiles": [],
     "targetVersions": {
